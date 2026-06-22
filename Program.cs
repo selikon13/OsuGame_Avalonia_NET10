@@ -232,7 +232,7 @@ public class GameCanvas : Control
         context.DrawText(scoreText, new Avalonia.Point(20, 20));
 
         var helpText = new FormattedText(
-            "Двигай мышкой/тачпадом по кругу. Space — сброс счёта.",
+            "Move your mouse/touchpad in a circle. Space — reset the score.",
             System.Globalization.CultureInfo.CurrentCulture,
             FlowDirection.LeftToRight,
             new Typeface("Arial"),
