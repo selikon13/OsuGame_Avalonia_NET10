@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OsuGame_Avalonia_NET10")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f815b051edd8245052d0ec81a1c72e7ad05e1586")]
 [assembly: System.Reflection.AssemblyProductAttribute("OsuGame_Avalonia_NET10")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OsuGame_Avalonia_NET10")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
