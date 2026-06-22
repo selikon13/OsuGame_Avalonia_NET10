@@ -42,7 +42,7 @@ public class GameWindow : Window
 {
     public GameWindow()
     {
-        Title = "OSU Mini Game на C#";
+        Title = "OSU Mini Game on C#";
         Width = 800;
         Height = 500;
         MinWidth = 640;
