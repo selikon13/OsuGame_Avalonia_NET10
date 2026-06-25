@@ -20,9 +20,9 @@ Each hit awards a point.
 
 1. Clone repository
 
-`git clone https://github.com/your-username/your-repository.git`
+`git clone https://github.com/selikon13/OsuGame_Avalonia_NET10.git`
 
-`cd your-repository`
+`cd OsuGame_Avalonia_NET10.git`
 
 2. Restore dependencies
 
